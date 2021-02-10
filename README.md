@@ -1,0 +1,2 @@
+# cSmithSoloProject
+brief solo project
